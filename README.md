@@ -65,32 +65,30 @@
 
 ## Multi-label Image Recognition with Noisy-label <a id="Multi-label Image Recognition with Noisy-label" class="anchor" href="Multi-label Image Recognition with Noisy-label" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
-### 2017~2021
-
 | **Pub.** | **Title**                                                    |                          **Links**                           |
 | :------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| **CVPR** | Learning From Noisy Large-Scale Datasets With Minimal Supervision | [Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Veit_Learning_From_Noisy_CVPR_2017_paper.pdf)/Code |
-| **CVPR** | Weakly Supervised Image Classification through Noise Regularization | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Weakly_Supervised_Image_Classification_Through_Noise_Regularization_CVPR_2019_paper.pdf)/Code |
+| **CVPR'19** | Weakly Supervised Image Classification through Noise Regularization | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Weakly_Supervised_Image_Classification_Through_Noise_Regularization_CVPR_2019_paper.pdf)/Code |
+| **CVPR'17** | Learning From Noisy Large-Scale Datasets With Minimal Supervision | [Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Veit_Learning_From_Noisy_CVPR_2017_paper.pdf)/Code |
 | **ACCV** | Multi-label Learning from Noisy Labels with Non-linear Feature Transformation | [Paper](https://vipl.ict.ac.cn/uploadfile/upload/2018111615590567.pdf)/Code |
 | **ICMR** | Confidence-basedWeighted Loss for Multi-label Classification with Missing Labels | [Paper](https://dl.acm.org/doi/abs/10.1145/3372278.3390728)/Code |
 
 ## Multi-label Image Recognition with Partial-label <a id="Multi-label Image Recognition with Partial-label" class="anchor" href="Multi-label Image Recognition with Partial-label" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
-### 2019~2021
-
 |  **Pub.**   | **Title**                                                    |                          **Links**                           |
 | :---------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-|  **CVPR**   | Learning a Deep ConvNet for Multi-label Classification with Partial Labels | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Durand_Learning_a_Deep_ConvNet_for_Multi-Label_Classification_With_Partial_Labels_CVPR_2019_paper.pdf)/Code |
-|  **CVPR**   | Interactive Multi-Label CNN Learning with Partial Labels     | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_Interactive_Multi-Label_CNN_Learning_With_Partial_Labels_CVPR_2020_paper.pdf)/Code |
-| **NeurIPS** | Exploiting weakly supervised visual patterns to learn from partial annotations | [Paper](https://proceedings.neurips.cc/paper/2020/file/066ca7bf90807fcd8e4f1eaef4e4e8f7-Paper.pdf)/Code |
+| arxiv | **[ATAM]** Rethinking Crowdsourcing Annotation: Partial Annotation with Salient Labels for
+Multi-Label Image Classification
+ | [Paper](https://arxiv.org/pdf/2109.02688.pdf)/Code |
+|  **CVPR'20** | Interactive Multi-Label CNN Learning with Partial Labels | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_Interactive_Multi-Label_CNN_Learning_With_Partial_Labels_CVPR_2020_paper.pdf)/Code |
+| **NeurIPS'20** | Exploiting weakly supervised visual patterns to learn from partial annotations | [Paper](https://proceedings.neurips.cc/paper/2020/file/066ca7bf90807fcd8e4f1eaef4e4e8f7-Paper.pdf)/Code |
+|  **CVPR'19** | Learning a Deep ConvNet for Multi-label Classification with Partial Labels | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Durand_Learning_a_Deep_ConvNet_for_Multi-Label_Classification_With_Partial_Labels_CVPR_2019_paper.pdf)/Code |
 
-## Few/Zero-shot Multi-label Image Recognition  <a id="Few/Zero-shot Multi-label Image Recognition" class="anchor" href="Few/Zero-shot Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
-
-### 2018~2021
+## Few/Zero-shot Multi-label Image Recognition <a id="Few/Zero-shot Multi-label Image Recognition" class="anchor" href="Few/Zero-shot Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 | **Pub.** | **Title**                                                    |                          **Links**                           |
 | :------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| **CVPR** | Fast Zero-Shot Image Tagging                                 | [Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Fast_Zero-Shot_Image_CVPR_2016_paper.pdf)/Code |
-| **CVPR** | Multi-Label Zero-Shot Learning with Structured Knowledge Graphs | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf)/[Code](https://github.com/Phoenix1327/ML-ZSL) |
-| **CVPR** | A Shared Multi-Attention Framework for Multi-Label Zero-Shot Learning | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_A_Shared_Multi-Attention_Framework_for_Multi-Label_Zero-Shot_Learning_CVPR_2020_paper.pdf)/Code |
-| **ICCV** | Semantic Diversity Learning for Zero-Shot Multi-label Classification | [Paper](https://arxiv.org/abs/2105.05926)/[Code](https://github.com/Alibaba-MIIL/ZS_SDL) |
+| **ICCV'21** | **[BiAM]** Discriminative Region-based Multi-Label Zero-Shot Learning |[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Narayan_Discriminative_Region-Based_Multi-Label_Zero-Shot_Learning_ICCV_2021_paper.pdf)/[Code](https://github.com/akshitac8/BiAM) |
+| **ICCV'21** | Semantic Diversity Learning for Zero-Shot Multi-label Classification | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ben-Cohen_Semantic_Diversity_Learning_for_Zero-Shot_Multi-Label_Classification_ICCV_2021_paper.pdf)/[Code](https://github.com/Alibaba-MIIL/ZS_SDL) |
+| **CVPR'20** | A Shared Multi-Attention Framework for Multi-Label Zero-Shot Learning | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_A_Shared_Multi-Attention_Framework_for_Multi-Label_Zero-Shot_Learning_CVPR_2020_paper.pdf)/Code |
+| **CVPR'18** | Multi-Label Zero-Shot Learning with Structured Knowledge Graphs | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf)/[Code](https://github.com/Phoenix1327/ML-ZSL) |
+| **CVPR'16** | Fast Zero-Shot Image Tagging | [Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Fast_Zero-Shot_Image_CVPR_2016_paper.pdf)/Code |
