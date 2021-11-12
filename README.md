@@ -25,6 +25,9 @@
 | arxiv | MlTr: Multi-label Classification with Transformer | [Paper](https://arxiv.org/abs/2106.06195)/[Code](https://github.com/starmemda/MlTr/) | 
 | arxiv | Query2Label: A Simple Transformer Way to Multi-Label Classification | [Paper](https://arxiv.org/pdf/2107.10834.pdf)/[Code](https://github.com/SlongLiu/query2labels) |
 | arxiv | Multi-layered Semantic Representation Network for Multi-label Image Classification | [Paper](https://arxiv.org/pdf/2106.11596.pdf) | 
+| arxiv | Contrast Learning Visual Attention for Multi Label Classification | [Paper](https://arxiv.org/pdf/2107.11626.pdf) |
+| arxiv | Learning Discriminative Representations for Multi-Label Image Recognition | [Paper](https://arxiv.org/pdf/2107.11159.pdf) |
+
 
 ### 2020       
 
@@ -93,3 +96,4 @@ Multi-Label Image Classification
 | **CVPR'20** | A Shared Multi-Attention Framework for Multi-Label Zero-Shot Learning | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_A_Shared_Multi-Attention_Framework_for_Multi-Label_Zero-Shot_Learning_CVPR_2020_paper.pdf)/Code |
 | **CVPR'18** | Multi-Label Zero-Shot Learning with Structured Knowledge Graphs | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_Multi-Label_Zero-Shot_Learning_CVPR_2018_paper.pdf)/[Code](https://github.com/Phoenix1327/ML-ZSL) |
 | **CVPR'16** | Fast Zero-Shot Image Tagging | [Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Fast_Zero-Shot_Image_CVPR_2016_paper.pdf)/Code |
+| arxiv | Multi-Label Learning from Single Positive Labels | [Paper](https://arxiv.org/pdf/2106.09708.pdf)|
