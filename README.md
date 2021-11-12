@@ -1,5 +1,12 @@
 # Awesome-Multi-label-Image-Recognition
 
+## Content:
+
+1. <a href="#Multi-label Image Recognition"> Multi-label Image Recognition </a>
+2. <a href="#Noisy-label Multi-label Image Recognition"> Multi-label Image Recognition with Noisy-label </a>
+3. <a href="#Partial-label Multi-label Image Recognition"> Multi-label Image Recognition with Partial-label </a>
+4. <a href="#Zero-shot Multi-label Image Recognition"> Few/Zero-shot Multi-label Image Recognition </a>
+
 # Multi-label Image Recognition <a id="Multi-label Image Recognition" class="anchor" href="Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
 
 ## 2021       
@@ -56,7 +63,7 @@
 
 
 
-# Noisy-label Multi-label Image Recognition <a id="Noisy-label Multi-label Image Recognition" class="anchor" href="Noisy-label Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+# Multi-label Image Recognition with Noisy-label <a id="Multi-label Image Recognition with Noisy-label" class="anchor" href="Noisy-label Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 ## 2017~2021
 
@@ -70,7 +77,7 @@
 
 
 
-# Partial-label Multi-label Image Recognition  <a id="Partial-label Multi-label Image Recognition" class="anchor" href="Partial-label Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+# Multi-label Image Recognition with Partial-label <a id="Multi-label Image Recognition with Partial-label" class="anchor" href="Partial-label Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 ## 2019~2021
 
 |  **Pub.**   | **Title**                                                    |                          **Links**                           |
@@ -81,7 +88,7 @@
 
 
 
-# Zero-shot Multi-label Image Recognition  <a id="Zero-shot Multi-label Image Recognition" class="anchor" href="Zero-shot Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+# Few/Zero-shot Multi-label Image Recognition  <a id="Few/Zero-shot Multi-label Image Recognition" class="anchor" href="Zero-shot Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 ## 2018~2021
 
