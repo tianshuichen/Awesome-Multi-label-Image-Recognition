@@ -63,7 +63,7 @@
 
 
 
-# Multi-label Image Recognition with Noisy-label <a id="Multi-label Image Recognition with Noisy-label" class="anchor" href="Noisy-label Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+# Multi-label Image Recognition with Noisy-label <a id="Multi-label Image Recognition with Noisy-label" class="anchor" href="Multi-label Image Recognition with Noisy-label" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 ## 2017~2021
 
@@ -77,7 +77,7 @@
 
 
 
-# Multi-label Image Recognition with Partial-label <a id="Multi-label Image Recognition with Partial-label" class="anchor" href="Partial-label Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+# Multi-label Image Recognition with Partial-label <a id="Multi-label Image Recognition with Partial-label" class="anchor" href="Multi-label Image Recognition with Partial-label" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 ## 2019~2021
 
 |  **Pub.**   | **Title**                                                    |                          **Links**                           |
@@ -88,7 +88,7 @@
 
 
 
-# Few/Zero-shot Multi-label Image Recognition  <a id="Few/Zero-shot Multi-label Image Recognition" class="anchor" href="Zero-shot Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+# Few/Zero-shot Multi-label Image Recognition  <a id="Few/Zero-shot Multi-label Image Recognition" class="anchor" href="Few/Zero-shot Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 ## 2018~2021
 
