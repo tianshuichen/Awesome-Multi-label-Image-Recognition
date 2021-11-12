@@ -28,64 +28,60 @@
 | arxiv | Contrast Learning Visual Attention for Multi Label Classification | [Paper](https://arxiv.org/pdf/2107.11626.pdf) |
 | arxiv | Learning Discriminative Representations for Multi-Label Image Recognition | [Paper](https://arxiv.org/pdf/2107.11159.pdf) |
 
-
 ### 2020       
 
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| **TPAMI**  | **[KGGR]** Knowledge-Guided Multi-Label Few-Shot Learning for General Image Recognition |        [Paper](https://arxiv.org/abs/2009.09450)/Code        |
-|  **TMM**   | **[DER]** Disentangling, Embedding and Ranking Label Cues for Multi-Label Image Recognition |  [Paper](https://ieeexplore.ieee.org/document/9122471)/Code  |
-|  **TMM**   | **[TS-GCN]** Joint Input and Output Space Learning for Multi-Label Image Classification |  [Paper](https://ieeexplore.ieee.org/document/9115821)/Code  |
-|  **CVPR**  | **[PLA]** Orderless_Recurrent_Models_for_Multi-Label_Classification | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yazici_Orderless_Recurrent_Models_for_Multi-Label_Classification_CVPR_2020_paper.pdf)/[Code](https://github.com/voyazici/orderless-rnn-classification) |
-|  **ECCV**  | **[ADD-GCN]** Attention-Driven Dynamic Graph Convolutional Network for Multi-Label Image Recognition | [Paper](https://arxiv.org/abs/2012.02994)/[Code](https://github.com/Yejin0111/ADD-GCN) |
-|  **AAAI**  | **[KSSNet]** Multi-Label Classification with Label Graph Superimposing | [Paper](https://arxiv.org/abs/1911.09243)/[Code](https://github.com/mathkey/mssnet) |
-|  **AAAI**  | **[MS-CMA]** Cross-Modality Attention with Semantic Graph Embedding for Multi-Label Classification |        [Paper](https://arxiv.org/abs/1912.07872)/Code        |
+| **TPAMI** | **[KGGR]** Knowledge-Guided Multi-Label Few-Shot Learning for General Image Recognition | [Paper](https://arxiv.org/abs/2009.09450) |
+|  **TMM** | **[DER]** Disentangling, Embedding and Ranking Label Cues for Multi-Label Image Recognition | [Paper](https://ieeexplore.ieee.org/document/9122471) |
+|  **TMM** | **[TS-GCN]** Joint Input and Output Space Learning for Multi-Label Image Classification | [Paper](https://ieeexplore.ieee.org/document/9115821) |
+|  **CVPR** | **[PLA]** Orderless_Recurrent_Models_for_Multi-Label_Classification | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yazici_Orderless_Recurrent_Models_for_Multi-Label_Classification_CVPR_2020_paper.pdf)/[Code](https://github.com/voyazici/orderless-rnn-classification) |
+|  **ECCV** | **[ADD-GCN]** Attention-Driven Dynamic Graph Convolutional Network for Multi-Label Image Recognition | [Paper](https://arxiv.org/abs/2012.02994)/[Code](https://github.com/Yejin0111/ADD-GCN) |
+|  **AAAI** | **[KSSNet]** Multi-Label Classification with Label Graph Superimposing | [Paper](https://arxiv.org/abs/1911.09243)/[Code](https://github.com/mathkey/mssnet) |
+|  **AAAI** | **[MS-CMA]** Cross-Modality Attention with Semantic Graph Embedding for Multi-Label Classification | [Paper](https://arxiv.org/abs/1912.07872) |
 | **ACM MM** | **[SGTN]** Privacy-Preserving Visual Content Tagging using Graph Transformer Networks | [Paper](https://dl.acm.org/doi/10.1145/3394171.3414047)/[Code](https://github.com/ReML-AI/sgtn) |
-| **ACM MM** | **[AdaHGNN]** AdaHGNN: Adaptive Hypergraph Neural Networks for Multi-Label Image Classification | [Paper](https://dl.acm.org/doi/10.1145/3394171.3414046)/Code |
+| **ACM MM** | **[AdaHGNN]** AdaHGNN: Adaptive Hypergraph Neural Networks for Multi-Label Image Classification | [Paper](https://dl.acm.org/doi/10.1145/3394171.3414046) |
 
 ### 2019       
 
 | **Pub.** | **Title**                                                    |                          **Links**                           |
 | :------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| **TSCB** | Multi-label Image Classification via Feature/Label Co-Projection |  [Paper](https://ieeexplore.ieee.org/document/8985434)/Code  |
-
+| **TSCB** | Multi-label Image Classification via Feature/Label Co-Projection | [Paper](https://ieeexplore.ieee.org/document/8985434) |
 | **CVPR** | **[ML-GCN]** Multi-Label Image Recognition with Graph Convolutional Networks | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Multi-Label_Image_Recognition_With_Graph_Convolutional_Networks_CVPR_2019_paper.pdf)/[Code](https://github.com/Megvii-Nanjing/ML-GCN) |
 | **CVPR** | **[VAC]** Visual Attention Consistency under Image Transforms for Multi-Label Image Classification | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_Visual_Attention_Consistency_Under_Image_Transforms_for_Multi-Label_Image_Classification_CVPR_2019_paper.pdf)/[Code](https://github.com/hguosc/visual_attention_consistency) |
 | **ICCV** | **[SSGRL]** Learning Semantic-Specific Graph Representation for Multi-Label Image Recognition | [Paper](https://arxiv.org/abs/1908.07325)/[Code](https://github.com/HCPLab-SYSU/SSGRL) |
-| **ICME** | Multi-Label Image Recognition with Joint Class-Aware Map Disentangling and Label Correlation Embedding | [Paper](http://www.weixiushen.com/publication/icme19.pdf)/Code |
+| **ICME** | Multi-Label Image Recognition with Joint Class-Aware Map Disentangling and Label Correlation Embedding | [Paper](http://www.weixiushen.com/publication/icme19.pdf) |
 
 ### 2015~2018       
 
 | **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :-------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| **TPAMI** | **[HCP]** HCP: A Flexible CNN Framework for Multi-Label Image Classification |  [Paper](https://ieeexplore.ieee.org/document/7305792)/Code  |
-| **CVPR**  | **[SRN]** Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification | [Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Learning_Spatial_Regularization_CVPR_2017_paper.pdf)/[Code](https://github.com/zhufengx/SRN_multilabel) |
-| **CVPR**  | **[CNN-RNN]** CNN-RNN: A Unified Framework for Multi-label Image Classification | [Paper](https://arxiv.org/abs/1604.04573)/[Code](https://github.com/AmrMaghraby/CNN-RNN-A-Unified-Framework-for-Multi-label-Image-Classification) |
-| **ICCV**  | **[WILDCAT]** WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation | [Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Durand_WILDCAT_Weakly_Supervised_CVPR_2017_paper.pdf)/[Code](https://github.com/durandtibo/wildcat.pytorch) |
-| **ICCV**  | **[RDAR]** Multi-label Image Recognition by Recurrently Discovering Attentional Regions | [Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Multi-Label_Image_Recognition_ICCV_2017_paper.pdf)/[Code](https://github.com/James-Yip/AttentionImageClass) |
-| **AAAI**  | **[Order-Free RNN]** Order-Free RNN with Visual Attention for Multi-Label Classification |        [Paper](https://arxiv.org/abs/1707.05495)/Code        |
-| **IJCAI** | **[MsDPD]** Multi-scale and Discriminative Part Detectors Based Features for Multi-label Image Classification | [Paper](https://www.ijcai.org/Proceedings/2018/0090.pdf)/Code |
-
+| **TPAMI'15** | **[HCP]** HCP: A Flexible CNN Framework for Multi-Label Image Classification | [Paper](https://ieeexplore.ieee.org/document/7305792)  |
+| **CVPR'17** | **[SRN]** Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classification | [Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Learning_Spatial_Regularization_CVPR_2017_paper.pdf)/[Code](https://github.com/zhufengx/SRN_multilabel) |
+| **CVPR'16** | **[CNN-RNN]** CNN-RNN: A Unified Framework for Multi-label Image Classification | [Paper](https://arxiv.org/abs/1604.04573)/[Code](https://github.com/AmrMaghraby/CNN-RNN-A-Unified-Framework-for-Multi-label-Image-Classification) |
+| **ICCV'17** | **[WILDCAT]** WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation | [Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Durand_WILDCAT_Weakly_Supervised_CVPR_2017_paper.pdf)/[Code](https://github.com/durandtibo/wildcat.pytorch) |
+| **ICCV'17** | **[RDAR]** Multi-label Image Recognition by Recurrently Discovering Attentional Regions | [Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Multi-Label_Image_Recognition_ICCV_2017_paper.pdf)/[Code](https://github.com/James-Yip/AttentionImageClass) |
+| **AAAI'18** | **[Order-Free RNN]** Order-Free RNN with Visual Attention for Multi-Label Classification | [Paper](https://arxiv.org/abs/1707.05495) |
+| **IJCAI'18** | **[MsDPD]** Multi-scale and Discriminative Part Detectors Based Features for Multi-label Image Classification | [Paper](https://www.ijcai.org/Proceedings/2018/0090.pdf) |
 
 ## Multi-label Image Recognition with Noisy-label <a id="Multi-label Image Recognition with Noisy-label" class="anchor" href="Multi-label Image Recognition with Noisy-label" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 | **Pub.** | **Title**                                                    |                          **Links**                           |
 | :------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| **CVPR'19** | Weakly Supervised Image Classification through Noise Regularization | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Weakly_Supervised_Image_Classification_Through_Noise_Regularization_CVPR_2019_paper.pdf)/Code |
-| **CVPR'17** | Learning From Noisy Large-Scale Datasets With Minimal Supervision | [Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Veit_Learning_From_Noisy_CVPR_2017_paper.pdf)/Code |
-| **ACCV** | Multi-label Learning from Noisy Labels with Non-linear Feature Transformation | [Paper](https://vipl.ict.ac.cn/uploadfile/upload/2018111615590567.pdf)/Code |
-| **ICMR** | Confidence-basedWeighted Loss for Multi-label Classification with Missing Labels | [Paper](https://dl.acm.org/doi/abs/10.1145/3372278.3390728)/Code |
+| **CVPR'19** | Weakly Supervised Image Classification through Noise Regularization | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Weakly_Supervised_Image_Classification_Through_Noise_Regularization_CVPR_2019_paper.pdf) |
+| **CVPR'17** | Learning From Noisy Large-Scale Datasets With Minimal Supervision | [Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Veit_Learning_From_Noisy_CVPR_2017_paper.pdf) |
+| **ACCV** | Multi-label Learning from Noisy Labels with Non-linear Feature Transformation | [Paper](https://vipl.ict.ac.cn/uploadfile/upload/2018111615590567.pdf) |
+| **ICMR** | Confidence-basedWeighted Loss for Multi-label Classification with Missing Labels | [Paper](https://dl.acm.org/doi/abs/10.1145/3372278.3390728) |
 
 ## Multi-label Image Recognition with Partial-label <a id="Multi-label Image Recognition with Partial-label" class="anchor" href="Multi-label Image Recognition with Partial-label" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 |  **Pub.**   | **Title**                                                    |                          **Links**                           |
 | :---------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | arxiv | **[ATAM]** Rethinking Crowdsourcing Annotation: Partial Annotation with Salient Labels for
-Multi-Label Image Classification
- | [Paper](https://arxiv.org/pdf/2109.02688.pdf)/Code |
-|  **CVPR'20** | Interactive Multi-Label CNN Learning with Partial Labels | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_Interactive_Multi-Label_CNN_Learning_With_Partial_Labels_CVPR_2020_paper.pdf)/Code |
-| **NeurIPS'20** | Exploiting weakly supervised visual patterns to learn from partial annotations | [Paper](https://proceedings.neurips.cc/paper/2020/file/066ca7bf90807fcd8e4f1eaef4e4e8f7-Paper.pdf)/Code |
-|  **CVPR'19** | Learning a Deep ConvNet for Multi-label Classification with Partial Labels | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Durand_Learning_a_Deep_ConvNet_for_Multi-Label_Classification_With_Partial_Labels_CVPR_2019_paper.pdf)/Code |
+Multi-Label Image Classification | [Paper](https://arxiv.org/pdf/2109.02688.pdf) |
+|  **CVPR'20** | Interactive Multi-Label CNN Learning with Partial Labels | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_Interactive_Multi-Label_CNN_Learning_With_Partial_Labels_CVPR_2020_paper.pdf) |
+| **NeurIPS'20** | Exploiting weakly supervised visual patterns to learn from partial annotations | [Paper](https://proceedings.neurips.cc/paper/2020/file/066ca7bf90807fcd8e4f1eaef4e4e8f7-Paper.pdf) |
+|  **CVPR'19** | Learning a Deep ConvNet for Multi-label Classification with Partial Labels | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Durand_Learning_a_Deep_ConvNet_for_Multi-Label_Classification_With_Partial_Labels_CVPR_2019_paper.pdf) |
 
 ## Few/Zero-shot Multi-label Image Recognition <a id="Few/Zero-shot Multi-label Image Recognition" class="anchor" href="Few/Zero-shot Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
