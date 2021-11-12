@@ -3,13 +3,13 @@
 ## Content:
 
 1. <a href="#Multi-label Image Recognition"> Multi-label Image Recognition </a>
-2. <a href="#Noisy-label Multi-label Image Recognition"> Multi-label Image Recognition with Noisy-label </a>
-3. <a href="#Partial-label Multi-label Image Recognition"> Multi-label Image Recognition with Partial-label </a>
-4. <a href="#Zero-shot Multi-label Image Recognition"> Few/Zero-shot Multi-label Image Recognition </a>
+2. <a href="#Multi-label Image Recognition with Noisy-label"> Multi-label Image Recognition with Noisy-label </a>
+3. <a href="#Multi-label Image Recognition with Partial-label"> Multi-label Image Recognition with Partial-label </a>
+4. <a href="#Few/Zero-shot Multi-label Image Recognition"> Few/Zero-shot Multi-label Image Recognition </a>
 
-# Multi-label Image Recognition <a id="Multi-label Image Recognition" class="anchor" href="Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
+## Multi-label Image Recognition <a id="Multi-label Image Recognition" class="anchor" href="Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
 
-## 2021       
+### 2021       
  **Pub.** | **Title** | **Links** 
  :-: | :-  | :-: 
  **ICCV** | **[TDRG]** Transformer-based Dual Relation Graph for Multi-label Image Recognition | Paper/Code 
@@ -25,7 +25,7 @@
  arxiv | MlTr: Multi-label Classification with Transformer | [Paper](https://arxiv.org/abs/2106.06195)/[Code](https://github.com/starmemda/MlTr/) 
  arxiv | Query2Label: A Simple Transformer Way to Multi-Label Classification | [Paper](https://arxiv.org/pdf/2107.10834.pdf)/[Code](https://github.com/SlongLiu/query2labels) 
 
-## 2020       
+### 2020       
 
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
@@ -39,7 +39,7 @@
 |  **TMM**   | **[TS-GCN]** Joint Input and Output Space Learning for Multi-Label Image Classification |  [Paper](https://ieeexplore.ieee.org/document/9115821)/Code  |
 | **TPAMI**  | **[KGGR]** Knowledge-Guided Multi-Label Few-Shot Learning for General Image Recognition |        [Paper](https://arxiv.org/abs/2009.09450)/Code        |
 
-## 2019       
+### 2019       
 
 | **Pub.** | **Title**                                                    |                          **Links**                           |
 | :------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
@@ -49,7 +49,7 @@
 | **ICME** | Multi-Label Image Recognition with Joint Class-Aware Map Disentangling and Label Correlation Embedding | [Paper](http://www.weixiushen.com/publication/icme19.pdf)/Code |
 | **TSCB** | Multi-label Image Classification via Feature/Label Co-Projection |  [Paper](https://ieeexplore.ieee.org/document/8985434)/Code  |
 
-## 2015~2018       
+### 2015~2018       
 
 | **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :-------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
@@ -63,9 +63,9 @@
 
 
 
-# Multi-label Image Recognition with Noisy-label <a id="Multi-label Image Recognition with Noisy-label" class="anchor" href="Multi-label Image Recognition with Noisy-label" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+## Multi-label Image Recognition with Noisy-label <a id="Multi-label Image Recognition with Noisy-label" class="anchor" href="Multi-label Image Recognition with Noisy-label" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
-## 2017~2021
+### 2017~2021
 
 | **Pub.** | **Title**                                                    |                          **Links**                           |
 | :------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
@@ -74,11 +74,9 @@
 | **ACCV** | Multi-label Learning from Noisy Labels with Non-linear Feature Transformation | [Paper](https://vipl.ict.ac.cn/uploadfile/upload/2018111615590567.pdf)/Code |
 | **ICMR** | Confidence-basedWeighted Loss for Multi-label Classification with Missing Labels | [Paper](https://dl.acm.org/doi/abs/10.1145/3372278.3390728)/Code |
 
+## Multi-label Image Recognition with Partial-label <a id="Multi-label Image Recognition with Partial-label" class="anchor" href="Multi-label Image Recognition with Partial-label" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
-
-
-# Multi-label Image Recognition with Partial-label <a id="Multi-label Image Recognition with Partial-label" class="anchor" href="Multi-label Image Recognition with Partial-label" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
-## 2019~2021
+### 2019~2021
 
 |  **Pub.**   | **Title**                                                    |                          **Links**                           |
 | :---------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
@@ -86,11 +84,9 @@
 |  **CVPR**   | Interactive Multi-Label CNN Learning with Partial Labels     | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huynh_Interactive_Multi-Label_CNN_Learning_With_Partial_Labels_CVPR_2020_paper.pdf)/Code |
 | **NeurIPS** | Exploiting weakly supervised visual patterns to learn from partial annotations | [Paper](https://proceedings.neurips.cc/paper/2020/file/066ca7bf90807fcd8e4f1eaef4e4e8f7-Paper.pdf)/Code |
 
+## Few/Zero-shot Multi-label Image Recognition  <a id="Few/Zero-shot Multi-label Image Recognition" class="anchor" href="Few/Zero-shot Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
-
-# Few/Zero-shot Multi-label Image Recognition  <a id="Few/Zero-shot Multi-label Image Recognition" class="anchor" href="Few/Zero-shot Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
-
-## 2018~2021
+### 2018~2021
 
 | **Pub.** | **Title**                                                    |                          **Links**                           |
 | :------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
