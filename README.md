@@ -11,6 +11,7 @@
 <details>
   <summary> ICCV (Virtual, 2021.10.11-17) <a href="https://mp.weixin.qq.com/s/DOjElL3fg198m2gdgN1_WQ"><img src="https://img.shields.io/badge/微信- 论文速记 (Day 1)-green" alt=""></a> </summary>
   ### 2021       
+ <p>
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | **TPAMI** | **[P-GCN]** Learning Graph Convolutional Networks for Multi-Label Recognition and Applications | [Paper](https://ieeexplore.ieee.org/abstract/document/9369105) |
@@ -28,6 +29,7 @@
 | arxiv | Multi-layered Semantic Representation Network for Multi-label Image Classification | [Paper](https://arxiv.org/pdf/2106.11596.pdf) | 
 | arxiv | Contrast Learning Visual Attention for Multi Label Classification | [Paper](https://arxiv.org/pdf/2107.11626.pdf) |
 | arxiv | Learning Discriminative Representations for Multi-Label Image Recognition | [Paper](https://arxiv.org/pdf/2107.11159.pdf) |
+</p>
 </details>
 
 
