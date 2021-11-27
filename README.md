@@ -99,3 +99,10 @@
 | **CVPR'16** | Fast Zero-Shot Image Tagging | [Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Fast_Zero-Shot_Image_CVPR_2016_paper.pdf)/[Code](https://github.com/brthmas/Fast-Zero-Shot-Image-Tagging) |
 | arxiv | Multi-Label Learning from Single Positive Labels | [Paper](https://arxiv.org/pdf/2106.09708.pdf)|
 </details>
+
+
+## 2. Tutorials
+
+|  **Pub.**  | **Title**                                                    |                          **Links**                           |
+| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| pass | pass | pass |
