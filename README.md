@@ -20,9 +20,9 @@
 | **ICCV** | **[TDRG]** Transformer-based Dual Relation Graph for Multi-label Image Recognition | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Transformer-Based_Dual_Relation_Graph_for_Multi-Label_Image_Recognition_ICCV_2021_paper.pdf)/[Code](https://github.com/iCVTEAM/TDRG) |
 | **ICCV** | **[ASL]** Asymmetric Loss For Multi-Label Classification | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ridnik_Asymmetric_Loss_for_Multi-Label_Classification_ICCV_2021_paper.pdf)/[Code](https://github.com/Alibaba-MIIL/ASL) |
 | **ICCV** | **[CSRA]** Residual Attention: A Simple but Effective Method for Multi-Label Recognition | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Residual_Attention_A_Simple_but_Effective_Method_for_Multi-Label_Recognition_ICCV_2021_paper.pdf)/[Code](https://github.com/Kevinz-code/CSRA) |
-| **IJCAI** | **[GM-MLIC]** GM-MLIC: Graph Matching based Multi-Label Image Classification | [Paper](https://arxiv.org/abs/2104.14762) | 
 | **AAAI**  | **[DSDL]** Deep Semantic Dictionary Learning for Multi-label Image Classification | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16472)/[Code](https://github.com/ZFT-CQU/DSDL) |
 | **AAAI** | **[MGTN]** Modular Graph Transformer Networks for Multi-Label Image Classification | [Paper](https://people.cs.umu.se/sonvx/files/2021_AAAI_MGTN.pdf)/[Code](https://github.com/ReML-AI/MGTN) |
+| **IJCAI** | **[GM-MLIC]** GM-MLIC: Graph Matching based Multi-Label Image Classification | [Paper](https://www.ijcai.org/proceedings/2021/0163.pdf) |
 | **ACM MM** | **[M3TR]** M3TR: Multi-modal Multi-label Recognition with Transformer | [Paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475191)/[Code](https://github.com/iCVTEAM/M3TR) |
 | arxiv | MlTr: Multi-label Classification with Transformer | [Paper](https://arxiv.org/abs/2106.06195)/[Code](https://github.com/starmemda/MlTr/) | 
 | arxiv | Query2Label: A Simple Transformer Way to Multi-Label Classification | [Paper](https://arxiv.org/pdf/2107.10834.pdf)/[Code](https://github.com/SlongLiu/query2labels) |
