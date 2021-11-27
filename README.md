@@ -103,6 +103,10 @@
 
 ## 2. Tutorials
 
+<details> <summary> Tutorials published on 2021  </summary>
+  
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| pass | pass | pass |
+| AAAI | Learning with Small Data | [[Youtube]](https://www.youtube.com/watch?v=4FhqbxRyFo8) |  
+
+</details>
