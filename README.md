@@ -48,7 +48,6 @@
 
 | **Pub.** | **Title**                                                    |                          **Links**                           |
 | :------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| **TSCB** | Multi-label Image Classification via Feature/Label Co-Projection | [Paper](https://ieeexplore.ieee.org/document/8985434) |
 | **CVPR** | **[ML-GCN]** Multi-Label Image Recognition with Graph Convolutional Networks | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Multi-Label_Image_Recognition_With_Graph_Convolutional_Networks_CVPR_2019_paper.pdf)/[Code](https://github.com/Megvii-Nanjing/ML-GCN) |
 | **CVPR** | **[VAC]** Visual Attention Consistency under Image Transforms for Multi-Label Image Classification | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_Visual_Attention_Consistency_Under_Image_Transforms_for_Multi-Label_Image_Classification_CVPR_2019_paper.pdf)/[Code](https://github.com/hguosc/visual_attention_consistency) |
 | **ICCV** | **[SSGRL]** Learning Semantic-Specific Graph Representation for Multi-Label Image Recognition | [Paper](https://arxiv.org/abs/1908.07325)/[Code](https://github.com/HCPLab-SYSU/SSGRL) |
