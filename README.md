@@ -40,7 +40,7 @@
 |  **CVPR** | **[PLA]** Orderless_Recurrent_Models_for_Multi-Label_Classification | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yazici_Orderless_Recurrent_Models_for_Multi-Label_Classification_CVPR_2020_paper.pdf)/[Code](https://github.com/voyazici/orderless-rnn-classification) |
 |  **ECCV** | **[ADD-GCN]** Attention-Driven Dynamic Graph Convolutional Network for Multi-Label Image Recognition | [Paper](https://arxiv.org/abs/2012.02994)/[Code](https://github.com/Yejin0111/ADD-GCN) |
 |  **AAAI** | **[KSSNet]** Multi-Label Classification with Label Graph Superimposing | [Paper](https://arxiv.org/abs/1911.09243)/[Code](https://github.com/mathkey/mssnet) |
-|  **AAAI** | **[MS-CMA]** Cross-Modality Attention with Semantic Graph Embedding for Multi-Label Classification | [Paper](https://arxiv.org/abs/1912.07872) |
+|  **AAAI** | Cross-Modality Attention with Semantic Graph Embedding for Multi-Label Classification | [Paper](https://arxiv.org/abs/1912.07872) |
 | **ACM MM** | **[SGTN]** Privacy-Preserving Visual Content Tagging using Graph Transformer Networks | [Paper](https://dl.acm.org/doi/10.1145/3394171.3414047)/[Code](https://github.com/ReML-AI/sgtn) |
 | **ACM MM** | **[AdaHGNN]** AdaHGNN: Adaptive Hypergraph Neural Networks for Multi-Label Image Classification | [Paper](https://dl.acm.org/doi/10.1145/3394171.3414046) |
 
