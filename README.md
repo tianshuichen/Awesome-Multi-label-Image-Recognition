@@ -1,8 +1,7 @@
 # Awesome-Multi-label-Image-Recognition
 
-<img src='./Figures/WeChat.png'>
+<img src='./Figures/WeChat.png' width="50%" div align=center />
 
-<center>![](./Figures/WeChat.png)</center>
 
 ## 0. Introducation
 本项目主要涵盖**多标签图像识别**方向的资料。具体而言，所包含的方向如下所示：  
