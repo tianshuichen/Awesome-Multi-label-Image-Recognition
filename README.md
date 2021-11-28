@@ -1,5 +1,7 @@
 # Awesome-Multi-label-Image-Recognition
 
+<center>![](./Figures/WeChat.png)</center>
+
 ## 0. Introducation
 本项目主要涵盖**多标签图像识别**方向的资料。具体而言，所包含的方向如下所示：  
 - Multi-label Image Recognition
