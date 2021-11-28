@@ -118,6 +118,6 @@
   
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| AAAI | Learning with Small Data | [[Youtube]](https://www.youtube.com/watch?v=4FhqbxRyFo8) |  
+|  |  |  |
 
 </details>
