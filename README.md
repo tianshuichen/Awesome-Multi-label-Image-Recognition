@@ -1,6 +1,6 @@
 # Awesome-Multi-label-Image-Recognition
 
-<img src='./Figures/WeChat.png' width="50%" div align=center />
+<center><img src='./Figures/WeChat.png' width="50%"></center>
 
 
 ## 0. Introducation
