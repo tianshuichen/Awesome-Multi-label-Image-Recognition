@@ -1,5 +1,7 @@
 # Awesome-Multi-label-Image-Recognition
 
+<img src='./Figures/WeCha.png'>
+
 <center>![](./Figures/WeChat.png)</center>
 
 ## 0. Introducation
