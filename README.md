@@ -1,6 +1,6 @@
 # Awesome-Multi-label-Image-Recognition
 
-<img src='./Figures/WeCha.png'>
+<img src='./Figures/WeChat.png'>
 
 <center>![](./Figures/WeChat.png)</center>
 
