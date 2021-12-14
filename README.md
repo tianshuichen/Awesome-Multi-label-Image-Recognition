@@ -1,5 +1,4 @@
-# Awesome-Multi-label-Image-Recognition
-
+# Multi-label Image Recognition (多标签图像识别)
 
 <h4 align="center">Everything about Multi-label Image Recognition.</h4>
 
