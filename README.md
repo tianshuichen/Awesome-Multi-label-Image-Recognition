@@ -1,7 +1,14 @@
 # Awesome-Multi-label-Image-Recognition
 
 
+<h4 align="center">Everything about Multi-label Image Recognition.</h4>
 
+<p align="center">
+  <strong><a href="#0">Papers</a></strong> •
+  <strong><a href="#1tutorials-简介与教程">Tutorials</a></strong> •
+  <strong><a href="#5transfer-learning-scholars-著名学者">Scholars & Labs</a> •
+  <strong><a href="#7datasets-and-benchmarks-数据集与评测结果">Datasets & Benchmarks</a></strong>
+</p>
 
 <div align=center>
   <img src='./Figures/WeChat.png' width="50%" />
@@ -10,15 +17,9 @@
 <div align=center>
   <a href="https://www.zhihu.com/people/putao537"><img src="https://img.shields.io/badge/知乎-blue" alt=""></a> <a href="https://twitter.com/TaoPu537"><img src="https://img.shields.io/badge/Twitter-blue" alt=""></a> <a href="https://wx.zsxq.com/dweb2/index/group/15288888851422"><img src="https://img.shields.io/badge/知识星球-green" alt=""></a>
 </div>
-  
-## 0. Introducation
-本项目主要涵盖**多标签图像识别**方向的资料。具体而言，所包含的方向如下所示：  
-- Multi-label Image Recognition
-- Multi-label Image Recognition with Noisy Labels
-- Multi-label Image Recognition with Partial Labels
-- Few/Zero-shot Multi-label Image Recognition
 
-## 1. Papers
+<h2 id="0">0. Papers</h2>
+
 <details>
   <summary> Multi-label Image Recognition </summary>
  
@@ -115,7 +116,7 @@
 </details>
 
 
-## 2. Tutorials
+## 1. Tutorials
 
 <details> <summary> Tutorials published on 2021  </summary>
   
@@ -125,7 +126,7 @@
 
 </details>
 
-## 3. Scholars & Labs.
+## 2. Scholars & Labs.
 
 ### Scholars
 <details> <summary> xxx  </summary>
@@ -138,3 +139,4 @@
 
 ### Labs
 
+## 3. Datasets & Benchmarks.
