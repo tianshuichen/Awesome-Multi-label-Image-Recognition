@@ -5,9 +5,9 @@
 
 <p align="center">
   <strong><a href="#0">Papers</a></strong> •
-  <strong><a href="#1tutorials-简介与教程">Tutorials</a></strong> •
-  <strong><a href="#5transfer-learning-scholars-著名学者">Scholars & Labs</a> •
-  <strong><a href="#7datasets-and-benchmarks-数据集与评测结果">Datasets & Benchmarks</a></strong>
+  <strong><a href="#1">Tutorials</a></strong> •
+  <strong><a href="#2">Scholars & Labs</a> •
+  <strong><a href="#3">Datasets & Benchmarks</a></strong>
 </p>
 
 <div align=center>
@@ -89,6 +89,7 @@
 | **CVPR'17** | Learning From Noisy Large-Scale Datasets With Minimal Supervision | [Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Veit_Learning_From_Noisy_CVPR_2017_paper.pdf) |
 </details>
 
+
 <details>
   <summary> Multi-label Image Recognition with Partial Labels </summary>
   
@@ -101,6 +102,7 @@
 |  **CVPR'19** | Learning a Deep ConvNet for Multi-label Classification with Partial Labels | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Durand_Learning_a_Deep_ConvNet_for_Multi-Label_Classification_With_Partial_Labels_CVPR_2019_paper.pdf) |
 | arxiv | **[ATAM]** Rethinking Crowdsourcing Annotation: Partial Annotation with Salient Labels for Multi-Label Image Classification | [Paper](https://arxiv.org/pdf/2109.02688.pdf) |
 </details>
+
 
 <details>
   <summary> Few/Zero-shot Multi-label Image Recognition </summary>
@@ -115,8 +117,7 @@
 | arxiv | Multi-Label Learning from Single Positive Labels | [Paper](https://arxiv.org/pdf/2106.09708.pdf)|
 </details>
 
-
-## 1. Tutorials
+<h2 id="1">1. Tutorials</h2>
 
 <details> <summary> Tutorials published on 2021  </summary>
   
@@ -126,7 +127,7 @@
 
 </details>
 
-## 2. Scholars & Labs.
+<h2 id="2">2. Scholars & Labs</h2>
 
 ### Scholars
 <details> <summary> xxx  </summary>
@@ -139,4 +140,4 @@
 
 ### Labs
 
-## 3. Datasets & Benchmarks.
+<h2 id="3">3. Datasets & Benchmarks</h2>
