@@ -14,8 +14,8 @@
 ## 0. Introducation
 本项目主要涵盖**多标签图像识别**方向的资料。具体而言，所包含的方向如下所示：  
 - Multi-label Image Recognition
-- Multi-label Image Recognition with Noisy-label
-- Multi-label Image Recognition with Partial-label
+- Multi-label Image Recognition with Noisy Labels
+- Multi-label Image Recognition with Partial Labels
 - Few/Zero-shot Multi-label Image Recognition
 
 ## 1. Papers
@@ -80,7 +80,7 @@
 
 
 <details>
-  <summary> Multi-label Image Recognition with Nosiy-label </summary>
+  <summary> Multi-label Image Recognition with Nosiy Labels </summary>
 
 | **Pub.** | **Title**                                                    |                          **Links**                           |
 | :------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
@@ -89,7 +89,7 @@
 </details>
 
 <details>
-  <summary> Multi-label Image Recognition with Partial-label </summary>
+  <summary> Multi-label Image Recognition with Partial Labels </summary>
   
 |  **Pub.**   | **Title**                                                    |                          **Links**                           |
 | :---------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
