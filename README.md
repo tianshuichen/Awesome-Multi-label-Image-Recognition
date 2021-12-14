@@ -54,6 +54,7 @@
 |  **AAAI** | Cross-Modality Attention with Semantic Graph Embedding for Multi-Label Classification | [Paper](https://arxiv.org/abs/1912.07872) |
 | **ACM MM** | **[SGTN]** Privacy-Preserving Visual Content Tagging using Graph Transformer Networks | [Paper](https://dl.acm.org/doi/10.1145/3394171.3414047)/[Code](https://github.com/ReML-AI/sgtn) |
 | **ACM MM** | **[AdaHGNN]** AdaHGNN: Adaptive Hypergraph Neural Networks for Multi-Label Image Classification | [Paper](https://dl.acm.org/doi/10.1145/3394171.3414046) |
+| arxiv | **[IA-GCN]** Instance-Aware Graph Convolutional Network for Multi-Label Classification | [Paper](https://arxiv.org/pdf/2008.08407.pdf) |
 
 ### 2019       
 
