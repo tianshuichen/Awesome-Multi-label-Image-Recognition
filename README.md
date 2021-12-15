@@ -5,8 +5,9 @@
 <p align="center">
   <strong><a href="#0">Papers</a></strong> •
   <strong><a href="#1">Tutorials</a></strong> •
-  <strong><a href="#2">Scholars & Labs</a> •
-  <strong><a href="#3">Datasets & Benchmarks</a></strong>
+  <strong><a href="#2">Talks</a></strong> •
+  <strong><a href="#3">Blogs</a></strong> •
+  <strong><a href="#4">Datasets & Benchmarks</a></strong>
 </p>
 
 <div align=center>
@@ -126,7 +127,7 @@
 
 </details>
 
-<h2 id="2">2. Scholars & Labs</h2>
+<h2 id="2">2. Talks</h2>
 
 ### Scholars
 <details> <summary> xxx  </summary>
@@ -139,4 +140,7 @@
 
 ### Labs
 
-<h2 id="3">3. Datasets & Benchmarks</h2>
+<h2 id="3">3. Blogs</h2>
+
+
+<h2 id="4">4. Datasets & Benchmarks</h2>
